@@ -1,0 +1,224 @@
+{
+	"locations": {
+		"Hostpital Lift 1": {
+			"floors": [
+				{
+					"name": "HeliPads",
+					"icon": "helicopter-symbol",
+					"divisions": [
+						"cl33irqia1442408cr1hay2jgx30",
+						"cl33iufqn1444491cr1hhdbpaqap"
+					],
+					"position": {
+						"x": -440.3009,
+						"y": -339.8925,
+						"z": 78.313,
+						"w": 79.8159
+					},
+					"interaction": {
+						"x": -440.3009,
+						"y": -339.8925,
+						"z": 78.313,
+						"r": 1.0
+					}
+				},
+				{
+					"name": "Hostpital Entrance",
+					"icon": "hospital",
+					"position": {
+						"x": -436.0545,
+						"y": -359.7085,
+						"z": 34.9495,
+						"w": 353.4344
+					},
+					"interaction": {
+						"x": -436.0545,
+						"y": -359.7085,
+						"z": 34.9495,
+						"r": 2.0
+					}
+				},
+				{
+					"name": "Car Park 1",
+					"icon": "square-parking",
+					"position": {
+						"x": -418.6747,
+						"y": -344.8059,
+						"z": 24.2318,
+						"w": 108.405
+					},
+					"interaction": {
+						"x": -418.6747,
+						"y": -344.8059,
+						"z": 24.2318,
+						"r": 2.0
+					}
+				},
+				{
+					"name": "Car Park 2",
+					"icon": "square-parking",
+					"position": {
+						"x": -495.2106,
+						"y": -372.7322,
+						"z": 24.231,
+						"w": 297.6021
+					},
+					"interaction": {
+						"x": -495.2106,
+						"y": -372.7322,
+						"z": 24.231,
+						"r": 2.0
+					}
+				}
+			]
+		},
+		"Hostpital Lift 2": {
+			"floors": [
+				{
+					"name": "HeliPads",
+					"icon": "helicopter-symbol",
+					"divisions": [
+						"cl33irqia1442408cr1hay2jgx30",
+						"cl33iufqn1444491cr1hhdbpaqap"
+					],
+					"position": {
+						"x": -449.4174,
+						"y": -338.667,
+						"z": 78.313,
+						"w": 263.4304
+					},
+					"interaction": {
+						"x": -449.4174,
+						"y": -338.667,
+						"z": 78.313,
+						"r": 1.0
+					}
+				},
+				{
+					"name": "Ward B",
+					"icon": "kit-medical",
+					"position": {
+						"x": -487.4481,
+						"y": -328.0708,
+						"z": 69.5049,
+						"w": 164.4938
+					},
+					"interaction": {
+						"x": -487.4481,
+						"y": -328.0708,
+						"z": 69.5049,
+						"r": 2.0
+					}
+				},
+				{
+					"name": "First floor",
+					"icon": "kit-medical",
+					"position": {
+						"x": -487.5765,
+						"y": -328.3258,
+						"z": 42.3069,
+						"w": 176.6695
+					},
+					"interaction": {
+						"x": -487.5765,
+						"y": -328.3258,
+						"z": 42.3069,
+						"r": 2.0
+					}
+				}
+			]
+		},
+		"Hostpital Lift 3": {
+			"floors": [
+				{
+					"name": "HeliPads",
+					"icon": "helicopter-symbol",
+					"divisions": [
+						"cl33irqia1442408cr1hay2jgx30",
+						"cl33iufqn1444491cr1hhdbpaqap"
+					],
+					"position": {
+						"x": -439.764,
+						"y": -335.9195,
+						"z": 78.3006,
+						"w": 77.8826
+					},
+					"interaction": {
+						"x": -439.764,
+						"y": -335.9195,
+						"z": 78.3006,
+						"r": 1.0
+					}
+				},
+				{
+					"name": "Ward B",
+					"icon": "kit-medical",
+					"position": {
+						"x": -452.6349,
+						"y": -288.4336,
+						"z": 69.5395,
+						"w": 112.4735
+					},
+					"interaction": {
+						"x": -452.6349,
+						"y": -288.4336,
+						"z": 69.5395,
+						"r": 2.0
+					}
+				},
+				{
+					"name": "Ward A",
+					"icon": "kit-medical",
+					"position": {
+						"x": -453.1096,
+						"y": -288.6642,
+						"z": 34.9485,
+						"w": 115.0734
+					},
+					"interaction": {
+						"x": -453.1096,
+						"y": -288.6642,
+						"z": 34.9485,
+						"r": 2.0
+					}
+				}
+			]
+		},
+		"Hostpital Small Lift": {
+			"floors": [
+				{
+					"name": "First floor",
+					"icon": "kit-medical",
+					"position": {
+						"x": -442.1925,
+						"y": -342.9681,
+						"z": 42.4325,
+						"w": 344.8473
+					},
+					"interaction": {
+						"x": -442.1925,
+						"y": -342.9681,
+						"z": 42.4325,
+						"r": 2.0
+					}
+				},
+				{
+					"name": "Hostpital Entrance",
+					"icon": "hospital",
+					"position": {
+						"x": -442.1348,
+						"y": -342.7947,
+						"z": 35.0052,
+						"w": 168.9432
+					},
+					"interaction": {
+						"x": -442.1348,
+						"y": -342.7947,
+						"z": 35.0052,
+						"r": 2.0
+					}
+				}
+			]
+		}
+	}
+}

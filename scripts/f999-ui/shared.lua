@@ -1,0 +1,1 @@
+local postal = require 'plugins.postals.shared'
