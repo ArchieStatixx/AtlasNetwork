@@ -1,7 +1,17 @@
 # Atlas Network
 
-Atlas Network main loading frame, this will port any files needed into your ROBLOX game for our services to run.
+All systems regarding Atlas Network run off here, all commits are made through Senior Developers, to get permissions to this Repo you will need to contact james@atlasnetwork.uk or george@atlasnetwork.uk
 
-# The Team
+# Contents
 
-Only our Programmers and main developers will have permissions to ths code, using the code without the whitelist will result in a blacklist.
+Lakewood: Contiains Core Scripts of Lakewood Secondary School on Platform ROBLOX
+Server 1-5: Contains files for Server 1-5
+Five999: Contains James old scripts for Five999
+
+# Chain of Command
+
+Production Lead: Archie (archie@atlasnetwork.uk) - archie.1003
+Deputy Production Lead: George (george@atlasnetwork.uk) - george.2003
+
+Scripting Lead: Harrison (harrison@atlasnetwork.uk) - harrison.5002
+Mapping Lead: Isaaq (Isaaq@atlasnetwork.uk)
